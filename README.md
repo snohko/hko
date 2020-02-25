@@ -1,4 +1,4 @@
 hko
 ===
 
-snohko
+@hko <> @snohko
